@@ -1,0 +1,14 @@
+language: python
+dist: xenial
+cache: pip
+python:
+  - "3.6"
+  - "3.7"
+
+before_install:
+  - sudo apt-get update
+  - pip install --upgrade pip setuptools
+  - pip install tox
+
+script:
+  - tox

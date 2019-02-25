@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.sw[op]
+.tox
+.vscode
+*.egg-info
+*cache*
+.coverage
