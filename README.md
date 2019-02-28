@@ -1,4 +1,4 @@
-# trellolo [![Build Status](https://www.travis-ci.com/jamrok/trellolo.svg?branch=master)](https://www.travis-ci.com/jamrok/trellolo) ![Codecov](https://img.shields.io/codecov/c/github/jamrok/trellolo.svg)
+# trellolo [![Build Status](https://www.travis-ci.com/jamrok/trellolo.svg?branch=master)](https://www.travis-ci.com/jamrok/trellolo) [![codecov](https://codecov.io/gh/jamrok/trellolo/branch/master/graph/badge.svg)](https://codecov.io/gh/jamrok/trellolo)
 
   Basic Trello CLI that allows for easy:
   - Board: showing, adding, deleting
